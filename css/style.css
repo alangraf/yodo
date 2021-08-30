@@ -1,0 +1,79 @@
+QLabel{
+    font-weight: lighter;
+    color: #0a64f5;
+}
+
+QLabel#lbl_line{
+    font-weight: lighter;
+    color: black;
+}
+
+QLineEdit#url_field{
+    border: 1px solid #00abff;
+    border-radius: 3px;
+    padding-left: 5px;
+    color: black;
+}
+
+QLineEdit#loc_field{
+    border: 1px solid #00abff;
+    border-radius: 3px;
+    padding-left: 5px;
+    color: black;
+}
+
+QTableWidget{
+    background: white;
+    border: 1px solid #00abff;
+    border-radius: 3px;
+    font-size: 13px;
+}
+
+QPlainTextEdit{
+    border: 1px solid #00abff;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    font-size: 11px;
+}
+
+QPushButton#add_url_btn{
+    height: 30px;
+    color: white;
+    background: #0390fc;
+    border-radius: 3px;
+}
+
+QPushButton#add_url_btn:hover{
+    color: white;
+}
+
+QPushButton#add_loc_btn{
+    height: 30px;
+    color: white;
+    background: #0390fc;
+    border-radius: 3px;
+}
+
+QPushButton#add_loc_btn:hover{
+    color: white;
+    border: 0.5px solid white
+}
+
+QPushButton#download_btn:active{
+    border: 0.5px solid white
+}
+
+QPushButton#download_btn{
+    height: 30px;
+    color: white;
+    background: #33C30B;
+    border-radius: 3px;
+}
+
+QPushButton#download_btn:hover{
+    color: white;
+    border: 0.5px solid white
+}
+
+
