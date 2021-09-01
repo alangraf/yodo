@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 1. Run the script
 2. Copy the YouTube URL and paste into the field. It automaticly reads the data and puts it into the list. You can 
-more than one URL into the list.
+put more than one URL into the list.
 3. Find a location where you want to save the files.
 4. Check the box next to video or audio files.
 5. Press Download and wait.
