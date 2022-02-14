@@ -1,6 +1,8 @@
 from gui.gui import Windows
 
-# Kommentar
+# Kommentar X86
+
+print("Hello")
 
 print("Halzzzzzlo")
 print("blablabla")
