@@ -8,6 +8,8 @@ class Video:
         self.url = url
         self.youtube = YouTube(url)
 
+        print("Hallo")
+
     def title(self):
         return self.youtube.title
 
