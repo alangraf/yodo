@@ -2,7 +2,8 @@ from gui.gui import Windows
 
 # Kommentar
 
-print("Hallo")
+print("Halzzzzzlo")
+print("blablabla")
 a = 20
 b = 20
 
